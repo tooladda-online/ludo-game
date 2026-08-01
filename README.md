@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎲 Ludo
+# 🎮 Ludo
 
 ### Use Ludo free on ToolAdda — quick, accurate, and browser-based.
 
